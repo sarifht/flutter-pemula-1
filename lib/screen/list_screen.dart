@@ -34,7 +34,7 @@ class ListScreen extends StatelessWidget {
                         "Selamat Datang di Kabupaten Lebak",
                         style: TextStyle(
                           color: Colors.white,
-                          fontSize: 24,
+                          fontSize: 14,
                           fontWeight: FontWeight.normal,
                         ),
                       ),
